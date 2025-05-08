@@ -106,5 +106,5 @@ Columns: 'Country/Region','Confirmed','Deaths',	'Recovered','Active',	'New cases
 
 ---
 ### 📷 Dashboard Preview
-![COVID-19 Tableau Dashboard]
+![COVID-19 Tableau Dashboard](tableau_dashboard.png)
 
